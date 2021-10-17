@@ -1,2 +1,3 @@
 # <h1 align="center" id="heading">Beskar Nights - Official Walkthrough</h1>
 
+### This is the Official Walkthrough for my TryHackMe submission Beskar Nights. This repository contains the walkthrough PDF and the scipt templates used for exploitation. Hope you enjoy!
